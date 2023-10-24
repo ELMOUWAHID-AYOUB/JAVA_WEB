@@ -24,8 +24,19 @@ les machines sont bien affiché.
 
 La machine id=4 bien ajouté.
 
+###  IIII Supprimer une machine 
 
-### IIII Base de donnes :
+1 Selecté la machine qui vous voulez supprimé:
+
+![supp](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/9f6029b4-7f34-4d77-b3e0-72c557633225)
+
+
+2 Cliques  sur supprimer :
+
+![Afficher](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/cdbfe53d-2567-4491-9c73-c45783aae414)
+
+
+### IIIII Base de donnes :
 
 1 Chéma base de donnés :
 
@@ -36,7 +47,7 @@ La machine id=4 bien ajouté.
 ![Base_de_donnes](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/a4b6c0c2-694d-4e77-99f9-0372ffb22837)
 
 
-### IIIII Technologies Utilisées :
+### IIIIII Technologies Utilisées :
 
 Java: Java est un langage de programmation polyvalent et orienté objet largement utilisé pour développer diverses applications allant des applications de bureau aux applications Web en passant par les applications mobiles. Il est apprécié pour sa portabilité, sa robustesse, sa sécurité et sa facilité d'utilisation.
 
@@ -44,7 +55,10 @@ MySQL : MySQL est un système de gestion de base de données relationnelle open 
 
 Hibernate : Hibernate est un framework de mapping objet-relationnel (ORM) en Java qui simplifie considérablement la communication entre une application Java et une base de données relationnelle. Il permet aux développeurs de travailler avec des objets Java au lieu de requêtes SQL directes, ce qui rend le processus de persistance des données plus simple et plus flexible.
 
-###  IIIIII comment exécuter le projet 
+JSP : 
+Les JavaServer Pages (JSP) sont une technologie qui aide les développeurs de logiciels à créer des pages web basées sur HTML et XML. Avec JSP, vous pouvez combiner des modèles statiques avec du contenu généré de manière dynamique.
+
+###  IIIIIII comment exécuter le projet 
 
 Etape1:
 
@@ -62,7 +76,7 @@ Etape3:
 Une fois que l'application  est lancée, vous devriez voir une site web conviviale avec des fonctionnalités pour ajouter des machines .
 Utilisez les fonctionnalités appropriées pour gérer les machines  en fonction de vos besoins.
 
-### IIIIIII Conclusion :
+### IIIIIIII Conclusion :
 
  ce projet de gestion d'équipements, développé en utilisant Hibernate, Java MySQL , vise à faciliter la procédure de réservation des ressources. Son page web conviviale, pour améliorer l'efficacité des opérations.
 
