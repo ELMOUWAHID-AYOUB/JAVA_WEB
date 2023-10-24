@@ -14,15 +14,8 @@ Cliquez sur Ajouter:
 ![Ajouter_machine](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/6e447c89-4662-43b8-b0f9-c359ea75841d)
 
 LA machine ID=4 bien ajouté.
-### Supprimer une machine 
 
-
-![supp](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/9f6029b4-7f34-4d77-b3e0-72c557633225)
-
-
-Click sur supprimer 
-
-![Afficher](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/cdbfe53d-2567-4491-9c73-c45783aae414)
+.
 
 ### Base de donnes:
 
