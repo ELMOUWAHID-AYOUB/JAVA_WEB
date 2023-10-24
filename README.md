@@ -1,6 +1,6 @@
 # JAVA_WEB
 
-Introduction:
+Introduction :
 
    Ce projet de gestion d'équipements a été créé en utilisant Hibernate, Java et MySQL dans le but de simplifier le processus de réservation des ressources. Son interface web conviviale est conçue pour améliorer l'efficacité des opérations.
  
