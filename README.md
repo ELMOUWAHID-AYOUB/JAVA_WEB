@@ -1,10 +1,9 @@
 # JAVA_WEB
-
-###Affichage des machines
+### Affichage des machines
 
 ![Afficher](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/cdbfe53d-2567-4491-9c73-c45783aae414)
 
-###Ajouter une Machine 
+### Ajouter une Machine 
 
 Entrez à site et saisez les champs ref ,marque , prix:
 
@@ -26,7 +25,7 @@ Click sur supprimer
 
 ![Afficher](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/cdbfe53d-2567-4491-9c73-c45783aae414)
 
-###Base de donnes:
+### Base de donnes:
 
 ![Base](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/9cde29ac-7145-4b38-bb9e-c7c5a1f7e825)
 
@@ -44,7 +43,7 @@ MySQL : MySQL est un système de gestion de base de données relationnelle open 
 Hibernate : Hibernate est un framework de mapping objet-relationnel (ORM) en Java qui simplifie considérablement la communication entre une application Java et une base de données relationnelle. Il permet aux développeurs de travailler avec des objets Java au lieu de requêtes SQL directes, ce qui rend le processus de persistance des données plus simple et plus flexible.
 
 
-Conclusion:
+### Conclusion:
 
  ce projet de gestion d'équipements, développé en utilisant Hibernate, Java MySQL , vise à faciliter la procédure de réservation des ressources. Son page web conviviale, pour améliorer l'efficacité des opérations.
 
