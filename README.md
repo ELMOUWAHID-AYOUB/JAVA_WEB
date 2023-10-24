@@ -47,6 +47,11 @@ La machine id=2 bien supprimé.
 
 ![Base_de_donnes](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/a4b6c0c2-694d-4e77-99f9-0372ffb22837)
 
+###  Fonctionnalités du projet :
+
+1_ Opérations CRUD (Create , Delete) pour les machines:
+
+   L'utilisateur dispose de plusieurs fonctionnalités pour gérer les machines dans le système. Tout d'abord, il peut ajouter une nouvelle machine en spécifiant des détails tels que la référence, la marque, le prix et l'utilisateur peut supprimer définitivement une machine spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système.
 
 ### IIIIII Technologies Utilisées :
 
