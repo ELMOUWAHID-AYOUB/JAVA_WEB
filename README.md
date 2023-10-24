@@ -3,8 +3,11 @@ Affichage des machines
 
 
 ![Afficher](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/cdbfe53d-2567-4491-9c73-c45783aae414)
+
 Ajouter une Machine 
-*entrer à site:
+
+Entrer à site et saisé les champs ref ,marque , prix:
+
 ![Saiser_info_machine](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/de576e0c-dbcb-47ed-9dc8-7a120b7aac6d)
 
 *ajouter une machine:
