@@ -25,7 +25,7 @@ La machine id=4 bien ajouté.
 
 ![Base](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/9cde29ac-7145-4b38-bb9e-c7c5a1f7e825)
 
-exemple :
+Exemple :
 
 ![Base_de_donnes](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/a4b6c0c2-694d-4e77-99f9-0372ffb22837)
 
