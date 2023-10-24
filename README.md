@@ -26,7 +26,7 @@ La machine id=4 bien ajouté.
 
 ###  IIII Supprimer une machine 
 
-1 Selecté la machine qui vous voulez supprimé:
+1  choisez la machine qui vous voulez supprimé:
 
 ![Selecter_machine](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/6e447c89-4662-43b8-b0f9-c359ea75841d)
 
