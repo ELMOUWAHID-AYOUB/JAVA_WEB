@@ -55,7 +55,7 @@ Etape2:
 Ouvrez le projet javaweb dans votre environnement de développement.
 Exécutez la classe machines.jsp .
 
-Etape4
+Etape3:
 
 Une fois que l'application  est lancée, vous devriez voir une site web conviviale avec des fonctionnalités pour ajouter des machines .
 Utilisez les fonctionnalités appropriées pour gérer les machines  en fonction de vos besoins.
