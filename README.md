@@ -1,4 +1,8 @@
 # JAVA_WEB
+
+Introduction:
+
+ ce projet de gestion d'équipements, développé en utilisant Hibernate, Java MySQL , vise à faciliter la procédure de réservation des ressources. Son page web conviviale, pour améliorer l'efficacité des opérations.
 ### Affichage des machines:
 
 ![Afficher](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/cdbfe53d-2567-4491-9c73-c45783aae414)
