@@ -23,6 +23,8 @@ La machine id=4 bien ajouté.
 
 ### Base de donnes :
 
+Chéma base de donnes :
+
 ![Base](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/9cde29ac-7145-4b38-bb9e-c7c5a1f7e825)
 
 Exemple :
