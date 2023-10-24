@@ -10,7 +10,7 @@
 
 ### Ajouter une Machine :
 
-Entrez à site et saisez les champs ref ,marque , prix:
+Entrez à site et saisez les champs ref ,marque ,prix :
 
 ![Saiser_info_machine](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/de576e0c-dbcb-47ed-9dc8-7a120b7aac6d)
 
