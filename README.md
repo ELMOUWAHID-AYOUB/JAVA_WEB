@@ -15,7 +15,9 @@ Ajouter une Machine
 
 Supprimer une machine 
 
-![Saiser_info_machine](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/de576e0c-dbcb-47ed-9dc8-7a120b7aac6d)
+
+![supp](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/9f6029b4-7f34-4d77-b3e0-72c557633225)
+
 
 Click sur supprimer 
 
