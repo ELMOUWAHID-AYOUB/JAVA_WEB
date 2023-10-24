@@ -18,7 +18,7 @@ Cliquez sur Ajouter :
 
 ![Ajouter_machine](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/6e447c89-4662-43b8-b0f9-c359ea75841d)
 
-LA machine ID=4 bien ajouté.
+La machine id=4 bien ajouté.
 
 
 ### Base de donnes :
