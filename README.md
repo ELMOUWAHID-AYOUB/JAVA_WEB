@@ -6,6 +6,8 @@
  
 ### Affichage des machines:
 
+Importer le code et exécutez le fichier machines.jsp  :
+
 ![Afficher](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/cdbfe53d-2567-4491-9c73-c45783aae414)
 
 ### Ajouter une Machine :
