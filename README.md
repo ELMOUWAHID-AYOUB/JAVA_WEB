@@ -28,7 +28,7 @@ La machine id=4 bien ajouté.
 
 1 Selecté la machine qui vous voulez supprimé:
 
-![supp](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/9f6029b4-7f34-4d77-b3e0-72c557633225)
+![Selecter_machine](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/6e447c89-4662-43b8-b0f9-c359ea75841d)
 
 
 2 Cliques  sur supprimer :
