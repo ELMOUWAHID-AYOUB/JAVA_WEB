@@ -31,10 +31,11 @@ La machine id=4 bien ajouté.
 ![Selecter_machine](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/6e447c89-4662-43b8-b0f9-c359ea75841d)
 
 
-2 Cliques  sur supprimer :
+2 Cliquesz  sur supprimer :
 
 ![Afficher](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/cdbfe53d-2567-4491-9c73-c45783aae414)
 
+La machine id=2 bien supprimé.
 
 ### IIIII Base de donnes :
 
