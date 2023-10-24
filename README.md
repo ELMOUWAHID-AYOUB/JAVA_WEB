@@ -42,6 +42,23 @@ MySQL : MySQL est un système de gestion de base de données relationnelle open 
 
 Hibernate : Hibernate est un framework de mapping objet-relationnel (ORM) en Java qui simplifie considérablement la communication entre une application Java et une base de données relationnelle. Il permet aux développeurs de travailler avec des objets Java au lieu de requêtes SQL directes, ce qui rend le processus de persistance des données plus simple et plus flexible.
 
+###  comment exécuter le projet 
+
+Etape1:
+
+utiliser la commande suivante si Git est installé : git clone <lien-du-projet>.
+Sinon, vous pouvez télécharger l'archive du projet et extraire son contenu sur votre ordinateur.
+Ouvrez le projet  dans votre environnement de développement.
+
+Etape2:
+
+Ouvrez le projet javaweb dans votre environnement de développement.
+Exécutez la classe machines.jsp .
+
+Etape4
+
+Une fois que l'application  est lancée, vous devriez voir une site web conviviale avec des fonctionnalités pour ajouter des machines .
+Utilisez les fonctionnalités appropriées pour gérer les machines  en fonction de vos besoins.
 
 ### Conclusion :
 
