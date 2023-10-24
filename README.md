@@ -20,7 +20,6 @@ Cliquez sur Ajouter :
 
 LA machine ID=4 bien ajouté.
 
-.
 
 ### Base de donnes :
 
