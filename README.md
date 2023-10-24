@@ -49,7 +49,7 @@ La machine id=2 bien supprimé.
 
 ###  Fonctionnalités du projet :
 
-1_ Opérations CRUD (Create , Delete) pour les machines:
+ Opérations CRUD (Create , Delete) pour les machines:
 
    L'utilisateur dispose de plusieurs fonctionnalités pour gérer les machines dans le système. Tout d'abord, il peut ajouter une nouvelle machine en spécifiant des détails tels que la référence, la marque, le prix et l'utilisateur peut supprimer définitivement une machine spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système.
 
